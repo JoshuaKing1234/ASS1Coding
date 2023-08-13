@@ -42,7 +42,7 @@ java -classpath path/to/your/classpath MonteCarloMini.MonteCarloMinimization <ro
 
 ## License
 
-This project is licensed under 
+This project is licensed under MIT
 
 ---
 
